@@ -13,9 +13,9 @@ public class BasicSwitch {
             case 10:
                 System.out.println("ten");
                 break;
-            case 20:
-                System.out.println("twenty");
-                break;
+            //case 20:
+            //    System.out.println("twenty");
+            //    break;
         }
     }
 }
